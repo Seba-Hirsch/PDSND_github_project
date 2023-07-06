@@ -1,17 +1,19 @@
-### Project Title
-Udacity US Bikeshare Project
-
-### Date created
-Thursday, 6 of July 2023
+## Udacity US Bikeshare Project
+Date created: _Thursday, 6 of July 2023_
 
 ### Description
 This project consists on the use of python in order to explore bikeshare data in three major cities of the US - Chicago, New York City and Washington.
 
 ### Files used
-*chicago.csv - Database corresponding to bikeshare in the city of Chicago
-*new_york_city.csv - Database corresponding to bikeshare in the city of New York
-*washington.csv - Database corresponding to bikeshare in the city of Washington
+* chicago.csv - Database corresponding to bikeshare in the city of Chicago
+* new_york_city.csv - Database corresponding to bikeshare in the city of New York
+* washington.csv - Database corresponding to bikeshare in the city of Washington
+
+### Author
+* Sebastian Hirsch - A future MSc in Business Analytics and Big Data that seeks to keep developing his skills
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* Udacity - The overall program, instructive videos and quizzes were a great guideline towards the development of this project
+* Chat GPT - A savior in moments of exasperation, always willing to give an answer or next step when a command or code was not working
+* Aritra96 - Aritra96's repositroy was a true aid in order to understand more about what was expected  
 
