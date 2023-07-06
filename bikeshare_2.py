@@ -43,7 +43,7 @@ def get_filters():
         else:
             break
 
-    print('-'*40)
+    print('-'*80)
     return city, month, day
 
 
@@ -110,7 +110,7 @@ def time_stats(df):
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*80)
 
 
 def station_stats(df):
@@ -132,7 +132,7 @@ def station_stats(df):
     print('Most popular trip is: ', pop_trip)
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*80)
 
 
 def trip_duration_stats(df):
@@ -150,7 +150,7 @@ def trip_duration_stats(df):
     print("Average travel time: ", avg_time)
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*80)
 
 
 def user_stats(df):
@@ -190,7 +190,7 @@ def user_stats(df):
         print("\nThe most common year of birth is: No data available for this selection.")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*80)
 
 def display_data(df):
     """Displays 5 rows of raw data to the user for the selected combination."""
