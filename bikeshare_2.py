@@ -1,7 +1,6 @@
 import time
 import pandas as pd
 import numpy as np
-import calendar
 
 CITY_DATA = { 'chicago': 'Udacity/Python project/chicago.csv',
               'new york': 'Udacity/Python project/new_york_city.csv',
